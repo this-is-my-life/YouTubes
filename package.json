@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/PMHStudio/YouTubes#readme",
   "dependencies": {
-    "electron": "^4.1.4",
+    "electron": "^7.2.4",
     "youtube-search": "^1.1.4"
   }
 }
